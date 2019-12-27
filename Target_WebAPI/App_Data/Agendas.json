@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 4,
+    "Nome": "Fernanda",
+    "DataInicio": "2019-12-22T19:54:39.632184-03:00",
+    "DataFinal": "2019-12-22T21:54:39.632184-03:00",
+    "tipoAgendamento": 0,
+    "Observacao": "Observacao"
+  },
+  {
+    "ID": 5,
+    "Nome": "Fabio",
+    "DataInicio": "0001-01-01T00:00:00",
+    "DataFinal": "0001-01-01T00:00:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 7,
+    "Nome": "Francisco",
+    "DataInicio": "0001-01-01T00:00:00",
+    "DataFinal": "0001-01-01T00:00:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 10,
+    "Nome": "Maria",
+    "DataInicio": "0001-01-01T00:00:00",
+    "DataFinal": "0001-01-01T00:00:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 11,
+    "Nome": "Francisco Lucca",
+    "DataInicio": "0001-01-01T00:00:00",
+    "DataFinal": "0001-01-01T00:00:00",
+    "tipoAgendamento": 11,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 12,
+    "Nome": "Fabio Cruz",
+    "DataInicio": "2019-12-26T20:46:00",
+    "DataFinal": "2019-12-26T20:46:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 13,
+    "Nome": "Francisco Lucca",
+    "DataInicio": "2019-12-26T20:46:00",
+    "DataFinal": "2019-12-26T20:46:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 14,
+    "Nome": "Fabio",
+    "DataInicio": "2019-12-26T20:46:00",
+    "DataFinal": "2019-12-26T20:46:00",
+    "tipoAgendamento": 0,
+    "Observacao": "teste"
+  },
+  {
+    "ID": 15,
+    "Nome": "Fabio",
+    "DataInicio": "2019-12-26T20:46:00",
+    "DataFinal": "2019-12-26T20:46:00",
+    "tipoAgendamento": 1,
+    "Observacao": "teste"
+  }
+]
